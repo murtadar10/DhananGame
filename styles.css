@@ -84,17 +84,27 @@
     width: 300px;
     height: 300px;
     margin: 20px auto;
+<<<<<<< HEAD
     background: url('ans.JPG') no-repeat center/cover;
+=======
+    background: url('Dhanan.jpg') no-repeat center/cover;
+>>>>>>> 7165b03074b24ec73a7be74ae9197fbc2fcc0bca
     border: 2px solid #555;
   }
   
   .overlay {
     position: absolute;
+<<<<<<< HEAD
     background-image:url(image.png) ;
     background-size: cover;
     background-position: center;
     opacity: 1;
     transition: opacity 2s ease;
+=======
+    background-color: rgba(0, 0, 0, 0.995);
+    opacity: 1;
+    transition: opacity 0.5s ease;
+>>>>>>> 7165b03074b24ec73a7be74ae9197fbc2fcc0bca
   }
   
   #piece0 { top: 0; left: 0; width: 60px; height: 150px; }
